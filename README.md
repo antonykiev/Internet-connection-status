@@ -18,4 +18,4 @@ the user experience by adapting the app's behavior accordingly.
 src="https://github.com/antonykiev/Internet-connection-status/blob/master/screenshots/result.gif"
 alt="Result"
 width="auto"
-height="320" />
+height="640" />
