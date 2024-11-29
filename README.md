@@ -15,7 +15,7 @@ the user experience by adapting the app's behavior accordingly.
 ## Example
 
 <img
-src="https://github.com/antonykiev/Internet-connection-status/blob/master/screenshots/result.gif"
-alt="Result"
-width="auto"
-height="640" />
+    src="https://github.com/antonykiev/Internet-connection-status/blob/master/screenshots/result.gif"
+    alt="Result"
+    width="auto"
+    height="640" />
